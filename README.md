@@ -35,7 +35,7 @@ I am currently exploring the exciting field of Artificial Intelligence, delving 
 
 [![Linkedin Badge](https://img.shields.io/badge/-aishamamoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishamamoor/)](https://www.linkedin.com/in/aishamamoor/)
 [![Gmail Badge](https://img.shields.io/badge/-aisha.mamoor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aisha.mamoor@gmail.com)](mailto:aisha.mamoor@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-allaboutaisha-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/allaboutaisha)](https://www.linkedin.com/in/aishamamoor/)
+[![GitHub Badge](https://img.shields.io/badge/-allaboutaisha-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/allaboutaisha)](https://github.com/allaboutaisha)
 
 ### My GitHub Stats:
 
